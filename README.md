@@ -17,7 +17,7 @@ My goal is to make technology accessible and efficient in the lives of different
 
 👩‍💻 Currently working at SONDA IT.
 
-🌎 I speak Portuguese (native), english (advanced) and spanish (beginner). I'm also learing Turkish as a hobby.
+🌎 I speak Portuguese (native), english (advanced) and spanish (beginner). I'm also learning Turkish as a hobby.
 
 🧠 Right now I'm focused on learning JAVA.
 
