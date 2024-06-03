@@ -26,7 +26,7 @@ My goal is to make technology accessible and efficient in the lives of different
 
 ### 🔗 Get in touch! :)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/kallmarques))
 
 [![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fkallvxz&style=social&logoSize=auto&label=(aka%20Twitter))
 ](https://x.com/kallvxz)
