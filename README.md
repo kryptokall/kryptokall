@@ -28,9 +28,8 @@ My goal is to make technology accessible and efficient in the lives of different
 
 ### 🔗 Get in touch! :)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kallmarques)
-
-[![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fkallvxz&style=social&logoSize=auto&label=(aka%20Twitter))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kallmarques)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ](https://x.com/kallvxz)
-
-[![E-mail](https://img.shields.io/website?url=https%3A%2F%2Fmailto.lleu.marques29%40gmail.com%2F&up_message=up!&up_color=green&down_color=red&style=social&logo=maildotru&logoSize=auto&label=E-mail)](mailto:lleu.marques29@gmail.com)
+[![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lleu.marques29@gmail.com)
+[![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1lkvx3xlivs3wy15ecelore8k?si=c75b34be207d48ef)
