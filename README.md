@@ -1,6 +1,6 @@
 
 ## 🚀 Kalléu Marques
-PT/BR — 
+🏝️ PT/BR — 
 
 <img align="right" alt="Developer cover created by Microsoft AI Designer" height="350" src="https://i.ibb.co/jLj8C6w/cover.png">
 
@@ -8,7 +8,7 @@ Estudante de Ciência da Computação e Desenvolvimento de Software, sou uma pes
 
 Tenho como objetivo tornar a tecnologia acessível e eficiente na vida dos mais diferentes grupos de pessoas, bem como promover a importância do conhecimento científico-tecnológico na vida cotidiana.
 
-EN/US — 
+🗽 EN/US — 
 
 Student of Computer Science and Software Development, I am passionate about technology and innovation.
 
@@ -33,3 +33,7 @@ My goal is to make technology accessible and efficient in the lives of different
 ](https://x.com/kallvxz)
 [![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lleu.marques29@gmail.com)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1lkvx3xlivs3wy15ecelore8k?si=c75b34be207d48ef)
+
+
+### 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kryptokall&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=95a4a6&text_color=d5d5c3&border_radius=5&border_color=95a4a6&icon_color=95a4a6&theme=jolly)
