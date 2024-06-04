@@ -2,7 +2,7 @@
 ## 🚀 Kalléu Marques
 PT/BR — 
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://i.ibb.co/jLj8C6w/cover.png">
+<img align="right" alt="Developer cover created by Microsoft AI Designer" height="350" src="https://i.ibb.co/jLj8C6w/cover.png">
 
 Estudante de Ciência da Computação e Desenvolvimento de Software, sou uma pessoa apaixonada por tecnologia e inovação. 
 
