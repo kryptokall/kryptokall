@@ -2,6 +2,8 @@
 ## 🚀 Kalléu Marques
 PT/BR — 
 
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://i.ibb.co/jLj8C6w/cover.png">
+
 Estudante de Ciência da Computação e Desenvolvimento de Software, sou uma pessoa apaixonada por tecnologia e inovação. 
 
 Tenho como objetivo tornar a tecnologia acessível e eficiente na vida dos mais diferentes grupos de pessoas, bem como promover a importância do conhecimento científico-tecnológico na vida cotidiana.
