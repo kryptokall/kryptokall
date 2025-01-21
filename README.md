@@ -14,7 +14,7 @@
 ### Connect with me :)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8580ff)](https://www.linkedin.com/in/kallmarques)
-[![X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X&logoColor=8580ff)](https://x.com/kallvxz)
+[![X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X&logoColor=8580ff)](https://x.com/kallstudy)
 [![Bluesky](https://img.shields.io/badge/Bluesky-000?style=for-the-badge&logo=bluesky&logoColor=8580ff)](https://bsky.app/profile/kallvxz.bsky.social)
 [![e-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=8580ff)](mailto:lleu.marques29@gmail.com)
 [![spotify](https://img.shields.io/badge/Spotify-000?&style=for-the-badge&logo=spotify&logoColor=8580ff)](https://open.spotify.com/user/1lkvx3xlivs3wy15ecelore8k?si=c75b34be207d48ef)
