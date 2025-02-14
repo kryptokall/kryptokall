@@ -30,6 +30,7 @@
     <img align="center" alt="PostgreSQL" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg"> &nbsp;
     <img align="center" alt="Postman" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg"> &nbsp;
     <img align="center" alt="Docker" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg"> &nbsp;
+    <img align="center" alt="Git" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
     <img align="center" alt="HTML5" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain-wordmark.svg">
     <img align="center" alt="CSS3" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain-wordmark.svg">
 </div> </br>
