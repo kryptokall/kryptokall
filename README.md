@@ -1,9 +1,9 @@
 <h1>
-    <img align="center" alt="Logo Kalléu Marques" height="40px" src="https://github.com/kryptokall/github-user-content/blob/main/logo-cloud.png?raw=true"></a>
+    <img align="center" alt="Logo Kalléu Marques" height="40px" src="https://github.com/kryptokall/kryptokall/blob/main/images/logo-cloud.png?raw=true"></a>
     <span>Kalléu Marques</span>
 </h1>
 
-<img src="https://github.com/kryptokall/github-user-content/blob/main/github-profile-vector.png?raw=true" alt="Developer vector created by storyset - www.freepik.com" align="right" border="0" height="380">
+<img src="https://github.com/kryptokall/kryptokall/blob/main/images/github-profile-vector.png?raw=true" alt="Developer vector created by storyset - www.freepik.com" align="right" border="0" height="380">
 
 <p> &emsp; Student of Computer Science and Software Development, I am passionate about technology and innovation.
 
