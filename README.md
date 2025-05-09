@@ -28,7 +28,7 @@
  
   - Badges by <a href="https://shields.io/">shields.io</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a>
-  - Technologies' icons by <a href="https://github.com/devicons">devicons</a> and <a href="https://github.com/tandpfun">tandpfun</a>
+  - Skills' icons by  <a href="https://skillicons.dev/">skillicons.dev</a>
   - Small cloud logo made by me :)
 
 </details>
