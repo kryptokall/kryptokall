@@ -19,16 +19,16 @@
 [![e-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=8580ff)](mailto:lleu.marques29@gmail.com)
 [![spotify](https://img.shields.io/badge/Spotify-000?&style=for-the-badge&logo=spotify&logoColor=8580ff)](https://open.spotify.com/user/1lkvx3xlivs3wy15ecelore8k?si=c75b34be207d48ef)
 
-### Technologies
+### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,postman,docker,git,html,css)](https://skillicons.dev)
 
 <details align="left">
   <summary></summary> 
  
-  - Badges by <a href="https://shields.io/">shields.io</a>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a>
+  - Social badges by <a href="https://shields.io/">shields.io</a>
+  - Developer vector by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a>
   - Skills' icons by  <a href="https://skillicons.dev/">skillicons.dev</a>
-  - Small cloud logo made by me :)
+  - Small cloud logo by me :)
 
 </details>
