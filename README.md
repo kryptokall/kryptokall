@@ -1,6 +1,6 @@
 <h1>
     <img align="center" alt="Logo Kalléu Marques" height="40px" src="https://github.com/kryptokall/kryptokall/blob/main/images/logo-cloud.png?raw=true"></a>
-    <span>Kalléu Marques</span>
+    <span>&nbsp;Kalléu Marques</span>
 </h1>
 
 <img src="https://github.com/kryptokall/kryptokall/blob/main/images/github-profile-vector.png?raw=true" alt="Developer vector created by storyset - www.freepik.com" align="right" border="0" height="380">
@@ -21,19 +21,7 @@
 
 ### Technologies
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="Java" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg"> &nbsp;
-    <img align="center" alt="Spring" width="55" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original-wordmark.svg"> &nbsp;
-    <img align="center" alt="Hibernate" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hibernate/hibernate-original-wordmark.svg">
-    <img align="center" alt="Maven" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original.svg">
-    <img align="center" alt="MySQL" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="PostgreSQL" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg"> &nbsp;
-    <img align="center" alt="Postman" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg"> &nbsp;
-    <img align="center" alt="Docker" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg"> &nbsp;
-    <img align="center" alt="Git" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
-    <img align="center" alt="HTML5" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain-wordmark.svg">
-    <img align="center" alt="CSS3" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain-wordmark.svg">
-</div> </br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,postman,docker,git,html,css)](https://skillicons.dev)
 
 <details align="left">
   <summary></summary> 
